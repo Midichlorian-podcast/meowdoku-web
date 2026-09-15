@@ -1,0 +1,1 @@
+{"name":"Nine Lives: Meowdoku","short_name":"Meowdoku","description":"Sudoku a kočka, která žije vlastním životem.","start_url":"/meowdoku-web/","display":"standalone","background_color":"#EAEDF7","theme_color":"#EAEDF7","lang":"cs","scope":"/meowdoku-web/","orientation":"any","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
