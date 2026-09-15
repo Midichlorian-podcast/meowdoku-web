@@ -5,6 +5,7 @@ Všechna písma jsou pod licencí SIL Open Font License 1.1 (OFL), která dovolu
 - Baloo 2, copyright Ek Type (https://github.com/EkType/Baloo2)
 - Nunito, copyright The Nunito Project Authors, Vernon Adams a další (https://github.com/googlefonts/nunito)
 - Patrick Hand, copyright Patrick Wagesreiter (https://fonts.google.com/specimen/Patrick+Hand)
+- Spectral, copyright Production Type (https://github.com/productiontype/Spectral)
 
 ## Text licence
 
