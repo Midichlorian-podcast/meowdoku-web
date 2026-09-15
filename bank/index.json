@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "files": {
+    "classic-easy": {
+      "count": 1000,
+      "file": "classic-easy.json"
+    },
+    "classic-medium": {
+      "count": 1000,
+      "file": "classic-medium.json"
+    },
+    "classic-hard": {
+      "count": 1000,
+      "file": "classic-hard.json"
+    },
+    "classic-expert": {
+      "count": 1000,
+      "file": "classic-expert.json"
+    },
+    "mini4-easy": {
+      "count": 1000,
+      "file": "mini4-easy.json"
+    },
+    "mini6-easy": {
+      "count": 1000,
+      "file": "mini6-easy.json"
+    },
+    "mini6-medium": {
+      "count": 1000,
+      "file": "mini6-medium.json"
+    },
+    "diagonal-easy": {
+      "count": 1000,
+      "file": "diagonal-easy.json"
+    },
+    "diagonal-medium": {
+      "count": 1000,
+      "file": "diagonal-medium.json"
+    },
+    "diagonal-hard": {
+      "count": 1000,
+      "file": "diagonal-hard.json"
+    },
+    "diagonal-expert": {
+      "count": 1000,
+      "file": "diagonal-expert.json"
+    },
+    "windoku-easy": {
+      "count": 1000,
+      "file": "windoku-easy.json"
+    },
+    "windoku-medium": {
+      "count": 1000,
+      "file": "windoku-medium.json"
+    },
+    "windoku-hard": {
+      "count": 1000,
+      "file": "windoku-hard.json"
+    },
+    "windoku-expert": {
+      "count": 1000,
+      "file": "windoku-expert.json"
+    },
+    "killer-easy": {
+      "count": 1000,
+      "file": "killer-easy.json"
+    },
+    "killer-medium": {
+      "count": 1000,
+      "file": "killer-medium.json"
+    },
+    "killer-hard": {
+      "count": 1000,
+      "file": "killer-hard.json"
+    },
+    "killer-expert": {
+      "count": 1000,
+      "file": "killer-expert.json"
+    },
+    "jigsaw-easy": {
+      "count": 1000,
+      "file": "jigsaw-easy.json"
+    },
+    "jigsaw-medium": {
+      "count": 1000,
+      "file": "jigsaw-medium.json"
+    },
+    "jigsaw-hard": {
+      "count": 1000,
+      "file": "jigsaw-hard.json"
+    },
+    "jigsaw-expert": {
+      "count": 1000,
+      "file": "jigsaw-expert.json"
+    },
+    "thermo-easy": {
+      "count": 1000,
+      "file": "thermo-easy.json"
+    },
+    "thermo-medium": {
+      "count": 1000,
+      "file": "thermo-medium.json"
+    },
+    "thermo-hard": {
+      "count": 1000,
+      "file": "thermo-hard.json"
+    },
+    "thermo-expert": {
+      "count": 1000,
+      "file": "thermo-expert.json"
+    },
+    "daily-medium": {
+      "count": 1000,
+      "file": "daily.json"
+    }
+  }
+}
