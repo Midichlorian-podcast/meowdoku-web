@@ -128,6 +128,10 @@
     "big12-expert": {
       "count": 1000,
       "file": "big12-expert.json"
+    },
+    "big16-easy": {
+      "count": 200,
+      "file": "big16-easy.json"
     }
   }
 }
