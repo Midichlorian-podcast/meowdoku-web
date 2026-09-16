@@ -120,6 +120,14 @@
     "big12-medium": {
       "count": 1000,
       "file": "big12-medium.json"
+    },
+    "big12-hard": {
+      "count": 1000,
+      "file": "big12-hard.json"
+    },
+    "big12-expert": {
+      "count": 1000,
+      "file": "big12-expert.json"
     }
   }
 }
