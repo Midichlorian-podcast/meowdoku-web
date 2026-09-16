@@ -132,6 +132,18 @@
     "big16-easy": {
       "count": 200,
       "file": "big16-easy.json"
+    },
+    "big16-medium": {
+      "count": 200,
+      "file": "big16-medium.json"
+    },
+    "big16-hard": {
+      "count": 200,
+      "file": "big16-hard.json"
+    },
+    "big16-expert": {
+      "count": 200,
+      "file": "big16-expert.json"
     }
   }
 }
