@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250">
+<g id="obloha"><rect x="16" y="16" width="252" height="192" fill="#CFE0F0"/><circle cx="212" cy="70" r="24" fill="#FBEFD6"/><ellipse cx="98" cy="80" rx="44" ry="13" fill="#FFFFFF" opacity="0.85"/><ellipse cx="118" cy="72" rx="28" ry="11" fill="#FFFFFF" opacity="0.9"/><rect x="16" y="156" width="252" height="52" fill="#CFE8DF"/><circle cx="84" cy="152" r="24" fill="#BFDCCB"/><circle cx="200" cy="160" r="16" fill="#BFDCCB"/></g>
+<g id="rám"><path d="M 4 4 H 280 V 220 H 4 Z M 16 16 V 208 H 268 V 16 Z" fill="#F6F4F9" fill-rule="evenodd" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round"/><rect x="138" y="16" width="8" height="192" fill="#F6F4F9" stroke="#2F2E3F" stroke-width="2"/><rect x="16" y="108" width="252" height="8" fill="#F6F4F9" stroke="#2F2E3F" stroke-width="2"/><path d="M 24 24 L 60 24" stroke="#FFFFFF" stroke-width="4" opacity="0.7" stroke-linecap="round"/></g>
+<g id="parapet"><rect x="0" y="220" width="300" height="16" rx="5" fill="#F0E6DC" stroke="#2F2E3F" stroke-width="3"/><rect x="2" y="234" width="296" height="10" rx="3" fill="#D8C7C0" stroke="#2F2E3F" stroke-width="2"/></g>
+<rect id="@plošina" x="10" y="198" width="280" height="26" fill="#3DFF9A" opacity="0.2"/>
+</svg>
