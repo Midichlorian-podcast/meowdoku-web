@@ -138,7 +138,7 @@
       "file": "big16-medium.json"
     },
     "big16-hard": {
-      "count": 200,
+      "count": 1000,
       "file": "big16-hard.json"
     },
     "big16-expert": {
