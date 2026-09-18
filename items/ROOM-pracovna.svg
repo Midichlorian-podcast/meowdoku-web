@@ -4,12 +4,12 @@
 <g id="lišta"><rect x="0" y="440" width="1000" height="26" fill="#F6F4F9" stroke="none"/><rect x="0" y="462" width="1000" height="4" fill="#D9CDEB" stroke="none"/><rect x="0" y="466" width="1000" height="6" fill="#DCD4E8" stroke="none" opacity="0.7"/></g>
 <g id="rám levý"><rect x="30" y="110" width="124" height="360" rx="5" fill="#F0E6DC" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="40" y="120" width="104" height="350" rx="3" fill="#D8C7C0" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="40" y="120" width="104" height="350" fill="#3B3A4A" stroke="none" opacity="0.85"/></g>
 <g id="křídlo levé"><rect x="42" y="122" width="100" height="346" rx="3" fill="#F6F4F9" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><rect x="56" y="138" width="72" height="130" rx="4" fill="#F0E6DC" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="56" y="290" width="72" height="160" rx="4" fill="#F0E6DC" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="124" cy="300" r="6" fill="#8F84A8" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><path d="M 64 146 L 64 200" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" opacity="0.5"/></g>
-<rect id="@slot psací stůl" x="300" y="480" width="400" height="50" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot psací stůl" x="350" y="480" width="400" height="50" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot křeslo" x="420" y="560" width="160" height="40" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot lampa" x="640" y="380" width="80" height="100" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot police" x="40" y="150" width="240" height="320" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot lampa" x="700" y="270" width="80" height="120" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot police" x="150" y="150" width="240" height="320" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot květina" x="820" y="500" width="140" height="60" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot koš" x="120" y="560" width="100" height="40" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot okno" x="340" y="136" width="300" height="250" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot okno" x="390" y="136" width="300" height="250" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot koberec" x="240" y="590" width="520" height="50" fill="#FF8C3D" opacity="0.2"/>
 </svg>
