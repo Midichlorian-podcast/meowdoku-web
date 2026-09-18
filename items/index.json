@@ -345,8 +345,8 @@
   },
   "P09": {
    "name": "Koberec",
-   "w": 344,
-   "h": 116,
+   "w": 524,
+   "h": 132,
    "room": "obyvak",
    "slot": "koberec",
    "level": "floor",
@@ -1120,7 +1120,8 @@
     "dotyk stínítko"
    ],
    "ready": true,
-   "note": "stojí na psacím stole; kočka se hřeje pod lampou"
+   "note": "stojí na psacím stole; kočka se hřeje pod lampou",
+   "on": "P34"
   },
   "P37": {
    "name": "Knihovna pracovny",
@@ -1360,8 +1361,8 @@
   },
   "P45": {
    "name": "Deka",
-   "w": 360,
-   "h": 110,
+   "w": 300,
+   "h": 48,
    "room": "loznice",
    "slot": "deka",
    "level": "floor",
@@ -1384,7 +1385,8 @@
     "úkryt pod dekou"
    ],
    "ready": true,
-   "note": "leží na posteli; kotě spí pod dekou (vidět jen boule)"
+   "note": "leží na posteli; kotě spí pod dekou (vidět jen boule)",
+   "on": "P41"
   },
   "P46": {
    "name": "Budík",
@@ -1410,7 +1412,8 @@
     "dotyk"
    ],
    "ready": true,
-   "note": "stojí na nočním stolku; shození = nepořádek; zvonění lekne"
+   "note": "stojí na nočním stolku; shození = nepořádek; zvonění lekne",
+   "on": "P42"
   },
   "P47": {
    "name": "Noční lampa",
@@ -1466,7 +1469,7 @@
   },
   "P49": {
    "name": "Vana",
-   "w": 360,
+   "w": 280,
    "h": 170,
    "room": "koupelna",
    "slot": "vana",
@@ -2377,7 +2380,10 @@
    "height": 0,
    "hide": "",
    "fixed": false,
-   "states": [],
+   "states": [
+    "žárovka svítí",
+    "taška"
+   ],
    "front": [],
    "parts": [
     "stěna",
@@ -2388,25 +2394,29 @@
     "rám pravý",
     "křídlo pravé",
     "díra",
+    "stav: žárovka svítí",
     "žárovka",
     "vypínač",
     "zásuvka",
-    "taška"
+    "stav: taška"
    ],
    "data": [
     "slot okno",
-    "slot velký kus",
-    "slot malý kus",
-    "slot police",
-    "slot obrazy",
-    "slot pelíšek",
-    "slot koberec",
     "slot lampa",
+    "slot velký kus",
+    "slot obrazy",
+    "slot police",
     "slot hračka 1",
-    "slot hračka 2"
+    "slot pelíšek",
+    "slot pelíšek +",
+    "slot koberec",
+    "slot hračka 2",
+    "slot malý kus",
+    "čep díra",
+    "čep miska"
    ],
    "ready": true,
-   "note": "start hry; levé dveře na dvorek, pravé do kuchyně; taška a díra jsou pevné kusy první noci"
+   "note": "start hry; levé dveře na dvorek, pravé do kuchyně; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
   },
   "ROOM-kuchyn": {
    "name": "Kuchyň",
@@ -2436,6 +2446,7 @@
     "slot stůl",
     "slot židle",
     "slot misky",
+    "slot misky +",
     "slot koš",
     "slot okno",
     "slot rohožka"
