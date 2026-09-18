@@ -7,7 +7,6 @@
 <rect id="@slot schody" x="187" y="100" width="440" height="420" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot botník" x="100" y="575" width="200" height="40" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot věšák" x="14" y="120" width="140" height="260" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot dveře" x="156" y="200" width="160" height="270" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot zrcadlo" x="328" y="120" width="100" height="160" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot lampička" x="206" y="100" width="60" height="60" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot zrcadlo" x="190" y="150" width="100" height="160" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot lampička" x="210" y="56" width="60" height="60" fill="#FF8C3D" opacity="0.2"/>
 </svg>

@@ -962,9 +962,9 @@
   },
   "P31": {
    "name": "Vstupní dveře",
-   "w": 160,
-   "h": 280,
-   "room": "chodba",
+   "w": 156,
+   "h": 345,
+   "room": "obyvak",
    "slot": "dveře",
    "level": "wall",
    "height": 0,
@@ -985,7 +985,7 @@
     "dotyk škrábání"
    ],
    "ready": true,
-   "note": "klepání a zvonek; návštěvy přicházejí tudy; škrábání na dveře"
+   "note": "jediné dveře domu, na zadní stěně obýváku; klepání a zvonek; návštěvy přicházejí tudy; škrábání na dveře"
   },
   "P32": {
    "name": "Zrcadlo",
@@ -2389,8 +2389,6 @@
     "stěna",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé",
     "průchod levý",
     "průchod pravý",
     "díra",
@@ -2401,6 +2399,7 @@
     "stav: taška"
    ],
    "data": [
+    "slot dveře",
     "slot okno",
     "slot lampa",
     "slot velký kus",
@@ -2417,7 +2416,7 @@
     "čep miska"
    ],
    "ready": true,
-   "note": "start hry; dveře na zadní stěně jsou vstupní, na dvorek a do kuchyně se chodí do strany; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
+   "note": "start hry; jediné dveře domu jsou vstupní dveře P31 na zadní stěně (slot dveře, pevné), na dvorek a do kuchyně se chodí do strany; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
   },
   "ROOM-kuchyn": {
    "name": "Kuchyň",
@@ -2476,12 +2475,11 @@
     "slot schody",
     "slot botník",
     "slot věšák",
-    "slot dveře",
     "slot zrcadlo",
     "slot lampička"
    ],
    "ready": true,
-   "note": "schody vedou z chodby na půdu; vstupní dveře P31 na zadní stěně"
+   "note": "schody vedou z chodby na půdu; vstupní dveře jsou jen v obýváku"
   },
   "ROOM-pracovna": {
    "name": "Pracovna",
