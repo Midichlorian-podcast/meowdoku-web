@@ -978,11 +978,13 @@
    "parts": [
     "rám",
     "křídlo",
+    "cedulka",
     "stav: otevřené",
     "stav: světlo zvenku"
    ],
    "data": [
-    "dotyk škrábání"
+    "dotyk škrábání",
+    "čep cedulka"
    ],
    "ready": true,
    "note": "jediné dveře domu, na zadní stěně obýváku; klepání a zvonek; návštěvy přicházejí tudy; škrábání na dveře"
@@ -2391,6 +2393,8 @@
     "lišta",
     "průchod levý",
     "průchod pravý",
+    "noviny",
+    "deník",
     "díra",
     "stav: žárovka svítí",
     "žárovka",
@@ -2413,7 +2417,9 @@
     "slot hračka 2",
     "slot malý kus",
     "čep díra",
-    "čep miska"
+    "čep miska",
+    "čep noviny",
+    "čep deník"
    ],
    "ready": true,
    "note": "start hry; jediné dveře domu jsou vstupní dveře P31 na zadní stěně (slot dveře, pevné), na dvorek a do kuchyně se chodí do strany; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
