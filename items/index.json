@@ -2391,8 +2391,8 @@
     "lišta",
     "rám levý",
     "křídlo levé",
-    "rám pravý",
-    "křídlo pravé",
+    "průchod levý",
+    "průchod pravý",
     "díra",
     "stav: žárovka svítí",
     "žárovka",
@@ -2404,6 +2404,7 @@
     "slot okno",
     "slot lampa",
     "slot velký kus",
+    "slot velký kus +",
     "slot obrazy",
     "slot police",
     "slot hračka 1",
@@ -2416,7 +2417,7 @@
     "čep miska"
    ],
    "ready": true,
-   "note": "start hry; levé dveře na dvorek, pravé do kuchyně; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
+   "note": "start hry; dveře na zadní stěně jsou vstupní, na dvorek a do kuchyně se chodí do strany; díra je pevná, taška jen první den (stav); radiátor visí pod oknem, i když jeho slot lampa leží na podlaze vedle okna"
   },
   "ROOM-kuchyn": {
    "name": "Kuchyň",
@@ -2435,10 +2436,8 @@
     "obklad",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé",
-    "rám pravý",
-    "křídlo pravé"
+    "průchod levý",
+    "průchod pravý"
    ],
    "data": [
     "slot linka",
@@ -2470,10 +2469,8 @@
     "stěna",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé",
-    "rám pravý",
-    "křídlo pravé"
+    "průchod levý",
+    "průchod pravý"
    ],
    "data": [
     "slot schody",
@@ -2502,8 +2499,8 @@
     "stěna",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé"
+    "průchod levý",
+    "zeď pravá"
    ],
    "data": [
     "slot psací stůl",
@@ -2534,8 +2531,8 @@
     "stěna",
     "podlaha",
     "lišta",
-    "rám pravý",
-    "křídlo pravé"
+    "zeď levá",
+    "průchod pravý"
    ],
    "data": [
     "slot postel",
@@ -2549,7 +2546,7 @@
     "slot hračka"
    ],
    "ready": true,
-   "note": "okno na balkon vlevo (P44, pevné po odemknutí balkonu), dveře vpravo do koupelny"
+   "note": "okno na balkon vlevo (P44, pevné po odemknutí balkonu), do koupelny se chodí vpravo do strany"
   },
   "ROOM-koupelna": {
    "name": "Koupelna",
@@ -2568,10 +2565,8 @@
     "kachličky",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé",
-    "rám pravý",
-    "křídlo pravé"
+    "průchod levý",
+    "průchod pravý"
    ],
    "data": [
     "slot vana",
@@ -2601,8 +2596,8 @@
     "stěna",
     "podlaha",
     "lišta",
-    "rám levý",
-    "křídlo levé",
+    "průchod levý",
+    "zeď pravá",
     "trámy",
     "schodiště"
    ],
@@ -2617,7 +2612,7 @@
     "slot pavučina"
    ],
    "ready": true,
-   "note": "dveře vlevo do koupelny; schody z chodby ústí vpravo"
+   "note": "do koupelny se chodí vlevo do strany; schody z chodby ústí vpravo"
   },
   "ROOM-balkon": {
    "name": "Balkon",
