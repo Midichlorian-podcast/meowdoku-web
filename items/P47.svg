@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 120" width="90" height="120">
+<g id="stav: světlo" data-state="hidden"><path d="M 20 56 L 70 56 L 90 118 L 0 118 Z" fill="#FFE9B0" stroke="none" opacity="0.35"/></g>
+<g id="noha"><ellipse cx="45" cy="110" rx="26" ry="7" fill="#B9AECB" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="41" y="56" width="8" height="52" rx="3" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stínítko"><path d="M 14 58 L 76 58 L 66 14 L 24 14 Z" fill="#F3D3DE" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 16 56 L 74 56 L 72 48 L 18 48 Z" fill="#E7B9C8" stroke="none"/></g>
+<rect id="@pata" x="20" y="104" width="50" height="12" fill="#FFB13D" opacity="0.2"/>
+<rect id="@dotyk stínítko" x="14" y="14" width="62" height="44" fill="#FF3D9A" opacity="0.2"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 160" width="100" height="160">
+<g id="rám"><rect x="4" y="4" width="92" height="152" rx="14" fill="#B9AECB" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="sklo"><rect x="14" y="14" width="72" height="132" rx="10" fill="#E9F0F7" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><path d="M 24 30 L 40 22" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="0.8"/><path d="M 24 46 L 60 26" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" opacity="0.6"/></g>
+<g id="stav: odraz kočky" data-state="hidden"><ellipse cx="50" cy="96" rx="22" ry="18" fill="#B8B3C4" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.6"/><path d="M 32 84 l 6 -14 l 8 8 M 68 84 l -6 -14 l -8 8" fill="none" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.6"/></g>
+<rect id="@dotyk" x="14" y="14" width="72" height="132" fill="#FF3D9A" opacity="0.2"/>
+</svg>

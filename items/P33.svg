@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 90" width="70" height="90">
+<g id="stav: světlo" data-state="hidden"><path d="M 12 40 L 58 40 L 70 90 L 0 90 Z" fill="#FFE9B0" stroke="none" opacity="0.4"/></g>
+<g id="držák"><rect x="30" y="40" width="10" height="24" rx="3" fill="#B9AECB" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="22" y="60" width="26" height="10" rx="4" fill="#B9AECB" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stínítko"><path d="M 14 40 L 56 40 L 48 8 L 22 8 Z" fill="#FBEFD6" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 16 38 L 54 38 L 52 30 L 18 30 Z" fill="#F2CF7A" stroke="none"/></g>
+</svg>

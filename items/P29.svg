@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+<g id="stín"><ellipse cx="100" cy="112" rx="92" ry="6" fill="#2F2E3F" stroke="none" opacity="0.14"/></g>
+<g id="botník"><rect x="8" y="50" width="184" height="56" rx="6" fill="#C9AD84" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="8" y="50" width="184" height="10" rx="4" fill="#D8BF9A" stroke="none"/><rect x="16" y="66" width="168" height="6" rx="2" fill="#A88C66" stroke="none"/><rect x="12" y="96" width="176" height="8" rx="3" fill="#8A7052" stroke="none" opacity="0.5"/><rect x="14" y="104" width="12" height="8" rx="2" fill="#8A7052" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="174" y="104" width="12" height="8" rx="2" fill="#8A7052" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="boty"><path d="M 30 78 q 0 -14 14 -14 l 22 0 q 14 0 18 10 l 4 4 l -58 0 Z" fill="#EFA79A" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M 100 78 q 0 -14 14 -14 l 22 0 q 14 0 18 10 l 4 4 l -58 0 Z" fill="#B7CBE6" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M 40 62 q 4 -14 16 -14 l 16 0 l 0 14 Z" fill="#EFA79A" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stav: rozházené" data-state="hidden"><path d="M 150 100 q 0 -12 12 -12 l 20 0 q 10 0 12 8 l -44 6 Z" fill="#EFA79A" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<rect id="@pata" x="8" y="90" width="184" height="20" fill="#FFB13D" opacity="0.2"/>
+<rect id="@plošina" x="8" y="52" width="184" height="16" fill="#3DFF9A" opacity="0.2"/>
+<rect id="@úkryt v botě" x="28" y="62" width="66" height="18" fill="#3DA9FF" opacity="0.2"/>
+<rect id="@dotyk boty" x="28" y="60" width="140" height="24" fill="#FF3D9A" opacity="0.2"/>
+</svg>

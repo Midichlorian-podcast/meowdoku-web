@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="300" height="230">
+<g id="obloha"><rect x="16" y="16" width="252" height="176" fill="#CFE0F0" stroke="none"/><rect x="16" y="140" width="252" height="52" fill="#CFE8DF" stroke="none"/><circle cx="200" cy="60" r="20" fill="#FBEFD6" stroke="none"/></g>
+<g id="rám"><path d="M 4 4 H 280 V 204 H 4 Z M 16 16 V 192 H 268 V 16 Z" fill="#F6F4F9" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill-rule="evenodd"/><rect x="138" y="16" width="8" height="176" fill="#F6F4F9" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="parapet"><rect x="0" y="204" width="300" height="14" rx="5" fill="#F0E6DC" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="2" y="216" width="296" height="8" rx="3" fill="#D8C7C0" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="bylinky"><rect x="30" y="190" width="34" height="26" rx="4" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><path d="M 36 190 q 4 -30 12 -10 q 4 -30 10 -6 q 6 -22 10 2" fill="none" stroke="#7FB06F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="210" y="190" width="34" height="26" rx="4" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><path d="M 216 190 q 6 -26 12 -8 q 6 -26 12 0" fill="none" stroke="#7FB06F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stav: okousané" data-state="hidden"><path d="M 40 176 l 6 -8 M 230 178 l 6 -10" fill="none" stroke="#7FB06F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="48" cy="200" r="3" fill="#9FCB8F" stroke="none"/></g>
+<rect id="@plošina" x="10" y="200" width="280" height="16" fill="#3DFF9A" opacity="0.2"/>
+<rect id="@dotyk bylinky" x="20" y="150" width="60" height="60" fill="#FF3D9A" opacity="0.2"/>
+<rect id="@dotyk sklo" x="16" y="16" width="252" height="176" fill="#FF3D9A" opacity="0.2"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200">
+<g id="obloha"><path d="M 30 20 L 210 20 L 230 160 L 10 160 Z" fill="#CFE0F0" stroke="none"/></g>
+<g id="rám"><path d="M 30 20 L 210 20 L 230 160 L 10 160 Z M 44 32 L 196 32 L 214 148 L 26 148 Z" fill="#C9AD84" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill-rule="evenodd"/><path d="M 120 32 L 120 148" stroke="#C9AD84" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/><path d="M 120 32 L 120 148" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="parapet"><rect x="0" y="160" width="240" height="14" rx="5" fill="#D8BF9A" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="4" y="168" width="232" height="6" rx="2" fill="#A88C66" stroke="none" opacity="0.5"/></g>
+<g id="stav: otevřené" data-state="hidden"><path d="M 44 32 L 196 32 L 176 -10 L 64 -10 Z" fill="#CFE0F0" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 44 32 L 196 32 L 214 148 L 26 148 Z" fill="#A9C6E4" stroke="none" opacity="0"/></g>
+<rect id="@plošina" x="10" y="156" width="220" height="18" fill="#3DFF9A" opacity="0.2"/>
+<rect id="@dotyk sklo" x="44" y="32" width="170" height="116" fill="#FF3D9A" opacity="0.2"/>
+</svg>

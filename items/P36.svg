@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 120" width="110" height="120">
+<g id="stav: světlo" data-state="hidden"><path d="M 20 50 L 80 50 L 110 118 L 0 118 Z" fill="#FFE9B0" stroke="none" opacity="0.35"/></g>
+<g id="noha"><ellipse cx="70" cy="108" rx="28" ry="8" fill="#B9AECB" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 70 104 L 70 60 L 50 48" fill="none" stroke="#A88C66" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stínítko"><path d="M 12 52 L 76 52 L 64 20 L 30 20 Z" fill="#FBEFD6" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 14 50 L 74 50 L 72 42 L 16 42 Z" fill="#F2CF7A" stroke="none"/></g>
+<rect id="@dotyk stínítko" x="10" y="20" width="70" height="36" fill="#FF3D9A" opacity="0.2"/>
+</svg>

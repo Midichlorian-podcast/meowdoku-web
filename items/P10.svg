@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="120" height="100">
+<g id="rám"><rect x="4" y="4" width="112" height="92" rx="4" fill="#C9AD84" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="14" y="14" width="92" height="72" fill="#CFE0F0" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="motiv"><rect x="14" y="56" width="92" height="30" fill="#CFE8DF" stroke="none"/><circle cx="84" cy="36" r="10" fill="#FBEFD6" stroke="none"/><path d="M 14 66 L 40 44 L 60 62 L 76 50 L 106 70" fill="#A9CDBE" stroke="none"/><ellipse cx="40" cy="30" rx="12" ry="5" fill="#FFFFFF" stroke="none" opacity="0.8"/></g>
+<g id="háček"><circle cx="60" cy="4" r="3" fill="#8F84A8" stroke="#2F2E3F" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<circle id="@čep hřebík" cx="60" cy="4" r="6" fill="#FF3D9A" opacity="0.5"/>
+<rect id="@dotyk" x="4" y="4" width="112" height="92" fill="#FF3D9A" opacity="0.2"/>
+</svg>
