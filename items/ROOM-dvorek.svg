@@ -11,4 +11,6 @@
 <rect id="@slot cestička" x="440" y="600" width="320" height="50" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot místo pro dárky" x="40" y="600" width="120" height="40" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot keř" x="960" y="480" width="130" height="60" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot ozdoba" x="200" y="600" width="200" height="50" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot ozdoba +" x="780" y="606" width="90" height="44" fill="#FF8C3D" opacity="0.2"/>
 </svg>

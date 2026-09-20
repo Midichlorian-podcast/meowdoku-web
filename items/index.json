@@ -92,7 +92,11 @@
   "P76",
   "P77",
   "P78",
-  "P79"
+  "P79",
+  "P80",
+  "P81",
+  "P82",
+  "P83"
  ],
  "weather": [
   "WEATHER-obloha"
@@ -2672,7 +2676,9 @@
     "slot tráva",
     "slot cestička",
     "slot místo pro dárky",
-    "slot keř"
+    "slot keř",
+    "slot ozdoba",
+    "slot ozdoba +"
    ],
    "ready": true,
    "note": "dveře do obýváku v pravé zdi domu; plot, tráva a strom pevné"
@@ -2742,6 +2748,118 @@
    "data": [],
    "ready": true,
    "note": "obloha okna a venku; fáze dne a počasí jsou stavy, kód je prolíná a hýbe s nimi (mraky, kapky, vločky, blesk)"
+  },
+  "P80": {
+   "name": "Věnec na dveře",
+   "w": 140,
+   "h": 150,
+   "room": "obyvak",
+   "slot": "dveře",
+   "level": "wall",
+   "height": 210,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "sníh"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "stuha",
+    "věnec",
+    "kvítky",
+    "stav: sníh"
+   ],
+   "data": [
+    "dotyk věnec"
+   ],
+   "ready": true,
+   "note": "jarní ozdoba z kalendáře; kočka po něm může kouknout, dosáhnout na něj nedosáhne"
+  },
+  "P81": {
+   "name": "Lampiony na plot",
+   "w": 440,
+   "h": 120,
+   "room": "dvorek",
+   "slot": "plot",
+   "level": "wall",
+   "height": 120,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "světlo"
+   ],
+   "front": [],
+   "parts": [
+    "šňůra",
+    "lampiony",
+    "stav: světlo"
+   ],
+   "data": [
+    "dotyk lampiony"
+   ],
+   "ready": true,
+   "note": "letní ozdoba z kalendáře; visí na plotě, večer svítí"
+  },
+  "P82": {
+   "name": "Dýně na trávu",
+   "w": 110,
+   "h": 96,
+   "room": "dvorek",
+   "slot": "ozdoba",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "sníh"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "dýně",
+    "žebra",
+    "stopka",
+    "list",
+    "stav: sníh"
+   ],
+   "data": [
+    "pata",
+    "dotyk dýně"
+   ],
+   "ready": true,
+   "note": "podzimní ozdoba z kalendáře; kočka ji očichá a obejde"
+  },
+  "P83": {
+   "name": "Stromek na parapet",
+   "w": 180,
+   "h": 230,
+   "room": "obyvak",
+   "slot": "okno",
+   "level": "wall",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "světýlka"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "kvítník",
+    "kmínek",
+    "jehličí",
+    "špička",
+    "ozdoby",
+    "stav: světýlka"
+   ],
+   "data": [
+    "pata",
+    "dotyk jehličí"
+   ],
+   "ready": true,
+   "note": "zimní ozdoba z kalendáře; stojí na parapetu, kočka po ozdobách sahá",
+   "on": "P01"
   }
  }
 }
