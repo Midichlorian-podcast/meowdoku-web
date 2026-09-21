@@ -1,0 +1,1 @@
+let e="cs",o={};function i(n,t={}){e=n,o=t}function a(n,...t){const r=(e==="en"?o[n]:void 0)??n;return t.length?r.replace(/\{(\d+)\}/g,(l,s)=>{const c=t[Number(s)];return c===void 0?"":String(c)}):r}const u=()=>e==="en"?"en-GB":"cs-CZ";export{u as l,i as s,a as t};
