@@ -1987,7 +1987,7 @@
   },
   "P64": {
    "name": "Zábradlí",
-   "w": 400,
+   "w": 1000,
    "h": 130,
    "room": "balkon",
    "slot": "zábradlí",
@@ -2564,7 +2564,7 @@
    "note": "schody vedou z chodby na podestu v patře; vstupní dveře jsou jen v obýváku"
   },
   "ROOM-podesta": {
-   "name": "Podesta",
+   "name": "Chodba v patře",
    "w": 800,
    "h": 700,
    "room": "podesta",
@@ -2589,7 +2589,7 @@
     "slot schodiště"
    ],
    "ready": true,
-   "note": "schody z chodby ústí vpředu vpravo, žebřík vlevo vede poklopem na půdu; vlevo ložnice, vpravo dveře na balkon"
+   "note": "schody z chodby ústí vpředu vpravo, žebřík vlevo vede poklopem na půdu; vlevo ložnice, vpravo dveře na terasu"
   },
   "ROOM-pracovna": {
    "name": "Pracovna",
@@ -2723,8 +2723,8 @@
    "note": "poklopem P85 po žebříku z podesty; vlevo dvířky na střechu"
   },
   "ROOM-balkon": {
-   "name": "Balkon",
-   "w": 400,
+   "name": "Terasa",
+   "w": 1000,
    "h": 700,
    "room": "balkon",
    "slot": "",
@@ -2737,7 +2737,8 @@
    "parts": [
     "obloha",
     "zeď domu",
-    "podlaha"
+    "podlaha",
+    "květináče"
    ],
    "data": [
     "slot truhlík 1",
@@ -2748,7 +2749,7 @@
     "slot lampion"
    ],
    "ready": true,
-   "note": "na střeše pracovny; dveře z podesty v levé zdi domu; zábradlí P64 pevné vpředu"
+   "note": "terasa přes celou pracovnu, venku jako malý dvorek; dveře z chodby v patře v levé zdi domu; zábradlí P64 pevné vpředu"
   },
   "ROOM-dvorek": {
    "name": "Dvorek",
