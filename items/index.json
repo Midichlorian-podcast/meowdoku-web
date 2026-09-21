@@ -5,6 +5,7 @@
   "ROOM-obyvak",
   "ROOM-kuchyn",
   "ROOM-chodba",
+  "ROOM-podesta",
   "ROOM-pracovna",
   "ROOM-loznice",
   "ROOM-koupelna",
@@ -42,6 +43,8 @@
   "P26",
   "P27",
   "P28",
+  "P84",
+  "P86",
   "P29",
   "P30",
   "P31",
@@ -73,6 +76,7 @@
   "P57",
   "P58",
   "P59",
+  "P85",
   "P60",
   "P61",
   "P62",
@@ -879,12 +883,12 @@
   },
   "P28": {
    "name": "Schody",
-   "w": 460,
-   "h": 420,
+   "w": 556,
+   "h": 620,
    "room": "chodba",
    "slot": "schody",
    "level": "low",
-   "height": 18,
+   "height": 30,
    "hide": "pod",
    "fixed": true,
    "states": [
@@ -896,6 +900,7 @@
     "bok",
     "stupně",
     "zábradlí",
+    "otvor ve stropě",
     "stav: světlo na schodech"
    ],
    "data": [
@@ -903,11 +908,54 @@
     "plošina",
     "plošina 2",
     "plošina 3",
-    "plošina horní",
     "úkryt pod"
    ],
    "ready": true,
-   "note": "stupně 18; kotě se schody učí; pod schody úkryt pro kotě"
+   "note": "schody z chodby na podestu v patře; kotě se schody učí; pod schody úkryt pro kotě"
+  },
+  "P84": {
+   "name": "Žebřík na půdu",
+   "w": 110,
+   "h": 470,
+   "room": "podesta",
+   "slot": "žebřík",
+   "level": "wall",
+   "height": 0,
+   "hide": "",
+   "fixed": true,
+   "states": [],
+   "front": [],
+   "parts": [
+    "poklop",
+    "žebřík"
+   ],
+   "data": [
+    "dotyk žebřík"
+   ],
+   "ready": true,
+   "note": "z podesty poklopem na půdu; nahoru a dolů po příčkách (Adam, 21. 9. 2026: funkční cesty napříč domem)"
+  },
+  "P86": {
+   "name": "Schodiště",
+   "w": 230,
+   "h": 84,
+   "room": "podesta",
+   "slot": "schodiště",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": true,
+   "states": [],
+   "front": [],
+   "parts": [
+    "otvor",
+    "stupně"
+   ],
+   "data": [
+    "pata"
+   ],
+   "ready": true,
+   "note": "sem ústí schody z chodby; klepnutím dolů"
   },
   "P29": {
    "name": "Botník s botami",
@@ -1339,7 +1387,7 @@
    "note": "nejvyšší místo v domě (dospělá); úkryt uvnitř, tahání za rukáv; za ní zóna neviditelnosti"
   },
   "P44": {
-   "name": "Okno na balkon",
+   "name": "Okno v ložnici",
    "w": 240,
    "h": 330,
    "room": "loznice",
@@ -1363,7 +1411,7 @@
     "dotyk"
    ],
    "ready": true,
-   "note": "z parapetu skok na balkon (mladá, dospělá); otevřené = stav"
+   "note": "sezení na parapetu (mladá, dospělá), výhled do zahrady; otevřené = stav"
   },
   "P45": {
    "name": "Deka",
@@ -1802,6 +1850,30 @@
    ],
    "ready": true,
    "note": "z hromady krabic skok na střechu (dospělá); koukání na hvězdy"
+  },
+  "P85": {
+   "name": "Poklop",
+   "w": 150,
+   "h": 96,
+   "room": "puda",
+   "slot": "poklop",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": true,
+   "states": [],
+   "front": [],
+   "parts": [
+    "stín",
+    "víko",
+    "otvor",
+    "žebřík"
+   ],
+   "data": [
+    "pata"
+   ],
+   "ready": true,
+   "note": "poklop do podesty, žebřík dolů; víko opřené dozadu"
   },
   "P60": {
    "name": "Stará lampa",
@@ -2464,7 +2536,7 @@
   },
   "ROOM-chodba": {
    "name": "Chodba se schody",
-   "w": 600,
+   "w": 800,
    "h": 700,
    "room": "chodba",
    "slot": "",
@@ -2489,7 +2561,35 @@
     "slot lampička"
    ],
    "ready": true,
-   "note": "schody vedou z chodby na půdu; vstupní dveře jsou jen v obýváku"
+   "note": "schody vedou z chodby na podestu v patře; vstupní dveře jsou jen v obýváku"
+  },
+  "ROOM-podesta": {
+   "name": "Podesta",
+   "w": 800,
+   "h": 700,
+   "room": "podesta",
+   "slot": "",
+   "level": "none",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [],
+   "front": [],
+   "parts": [
+    "stěna",
+    "podlaha",
+    "lišta",
+    "průchod levý",
+    "průchod pravý",
+    "lampa"
+   ],
+   "data": [
+    "slot žebřík",
+    "slot obrazy",
+    "slot schodiště"
+   ],
+   "ready": true,
+   "note": "schody z chodby ústí vpředu vpravo, žebřík vlevo vede poklopem na půdu; vlevo ložnice, vpravo dveře na balkon"
   },
   "ROOM-pracovna": {
    "name": "Pracovna",
@@ -2539,7 +2639,7 @@
     "stěna",
     "podlaha",
     "lišta",
-    "zeď levá",
+    "průchod levý",
     "průchod pravý"
    ],
    "data": [
@@ -2554,7 +2654,7 @@
     "slot hračka"
    ],
    "ready": true,
-   "note": "okno na balkon vlevo (P44, pevné po odemknutí balkonu), do koupelny se chodí vpravo do strany"
+   "note": "vlevo koupelna, vpravo podesta se schody z chodby a žebříkem na půdu; okno P44 do zahrady"
   },
   "ROOM-koupelna": {
    "name": "Koupelna",
@@ -2573,7 +2673,7 @@
     "kachličky",
     "podlaha",
     "lišta",
-    "průchod levý",
+    "zeď levá",
     "průchod pravý"
    ],
    "data": [
@@ -2586,7 +2686,7 @@
     "slot okno"
    ],
    "ready": true,
-   "note": "ú. 15 + dospělá kočka"
+   "note": "z ložnice vpravo; konec domu vlevo; ú. 15 + dospělá kočka"
   },
   "ROOM-puda": {
    "name": "Půda",
@@ -2606,8 +2706,7 @@
     "lišta",
     "průchod levý",
     "zeď pravá",
-    "trámy",
-    "schodiště"
+    "trámy"
    ],
    "data": [
     "slot krabice",
@@ -2617,10 +2716,11 @@
     "slot střešní okno",
     "slot lampa",
     "slot koberec",
-    "slot pavučina"
+    "slot pavučina",
+    "slot poklop"
    ],
    "ready": true,
-   "note": "do koupelny se chodí vlevo do strany; schody z chodby ústí vpravo"
+   "note": "poklopem P85 po žebříku z podesty; vlevo dvířky na střechu"
   },
   "ROOM-balkon": {
    "name": "Balkon",
@@ -2648,7 +2748,7 @@
     "slot lampion"
    ],
    "ready": true,
-   "note": "okno do ložnice v pravé zdi (P44); zábradlí P64 pevné vpředu"
+   "note": "na střeše pracovny; dveře z podesty v levé zdi domu; zábradlí P64 pevné vpředu"
   },
   "ROOM-dvorek": {
    "name": "Dvorek",
@@ -2698,7 +2798,8 @@
    "parts": [
     "obloha",
     "střecha",
-    "okap"
+    "okap",
+    "štít půdy"
    ],
    "data": [
     "slot komín",
@@ -2707,7 +2808,7 @@
     "slot místo u komína"
    ],
    "ready": true,
-   "note": "střešní okno z půdy; hřeben zakázaný uzel"
+   "note": "dvířky ze štítu půdy vpravo; hřeben zakázaný uzel"
   },
   "WEATHER-obloha": {
    "name": "Obloha a počasí",

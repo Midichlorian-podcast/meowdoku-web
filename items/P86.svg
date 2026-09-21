@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 84" width="230" height="84">
+<g id="otvor"><rect x="4" y="8" width="222" height="70" rx="4" fill="#3B3A4A" stroke="#8A7052" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="stupně"><rect x="58" y="60" width="164" height="16" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="98" y="44" width="124" height="16" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="138" y="28" width="84" height="16" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="138" y="28" width="84" height="4" fill="#D8BF9A" stroke="none"/><rect x="98" y="44" width="40" height="4" fill="#D8BF9A" stroke="none"/><rect x="58" y="60" width="40" height="4" fill="#D8BF9A" stroke="none"/></g>
+<rect id="@pata" x="4" y="30" width="222" height="48" fill="#FFB13D" opacity="0.2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 96" width="150" height="96">
+<g id="stín"><ellipse cx="75" cy="90" rx="70" ry="5" fill="#2F2E3F" stroke="none" opacity="0.14"/></g>
+<g id="víko"><path d="M 12 60 L 30 10 L 124 10 L 138 60 Z" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M 34 16 L 120 16" fill="none" stroke="#D8BF9A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="otvor"><path d="M 6 62 L 144 62 L 150 88 L 0 88 Z" fill="#3B3A4A" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g id="žebřík"><rect x="44" y="36" width="10" height="50" rx="3" fill="#A88C66" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="96" y="36" width="10" height="50" rx="3" fill="#A88C66" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><rect x="54" y="50" width="42" height="8" rx="2" fill="#C9AD84" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+<rect id="@pata" x="0" y="62" width="150" height="26" fill="#FFB13D" opacity="0.2"/>
+</svg>

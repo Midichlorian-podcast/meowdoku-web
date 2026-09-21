@@ -4,9 +4,8 @@
 <g id="lišta"><rect x="0" y="440" width="800" height="26" fill="#F6F4F9" stroke="none"/><rect x="0" y="462" width="800" height="4" fill="#D9CDEB" stroke="none"/><rect x="0" y="466" width="800" height="6" fill="#DCD4E8" stroke="none" opacity="0.7"/></g>
 <g id="průchod levý"><rect x="0" y="0" width="14" height="150" fill="#F0E6DC" stroke="none"/><path d="M 14 0 L 14 152" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 0 150 L 14 150" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="0" y="150" width="14" height="324" fill="#6F5A41" stroke="none" opacity="0.3"/><path d="M 14 150 L 14 470" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.4"/></g>
 <g id="průchod pravý"><rect x="786" y="0" width="14" height="150" fill="#F0E6DC" stroke="none"/><path d="M 786 0 L 786 152" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 786 150 L 800 150" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="786" y="150" width="14" height="324" fill="#6F5A41" stroke="none" opacity="0.3"/><path d="M 786 150 L 786 470" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.4"/></g>
-<rect id="@slot schody" x="330" y="0" width="456" height="470" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot botník" x="60" y="575" width="200" height="40" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot věšák" x="20" y="120" width="140" height="260" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot zrcadlo" x="196" y="150" width="100" height="160" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot lampička" x="206" y="50" width="60" height="60" fill="#FF8C3D" opacity="0.2"/>
+<g id="lampa"><path d="M 420 0 L 420 40" stroke="#9A94A8" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M 396 40 L 444 40 L 434 64 L 406 64 Z" fill="#FBEFD6" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
+<rect id="@slot žebřík" x="70" y="0" width="110" height="470" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot obrazy" x="250" y="150" width="140" height="110" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot schodiště" x="560" y="628" width="230" height="72" fill="#FF8C3D" opacity="0.2"/>
 </svg>
