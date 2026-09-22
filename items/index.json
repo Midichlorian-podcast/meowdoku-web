@@ -443,12 +443,15 @@
    "hide": "v",
    "fixed": false,
    "states": [
-    "zavřená"
+    "zavřená",
+    "převrácená",
+    "převrácená okraj"
    ],
    "front": [
     "klopa levá",
     "klopa pravá",
-    "přední stěna"
+    "přední stěna",
+    "převrácená okraj"
    ],
    "parts": [
     "stín",
@@ -457,7 +460,9 @@
     "před: klopa levá",
     "před: klopa pravá",
     "před: přední stěna",
-    "stav: zavřená"
+    "stav: zavřená",
+    "stav: převrácená",
+    "před: stav: převrácená okraj"
    ],
    "data": [
     "pata",
@@ -466,7 +471,7 @@
     "dotyk"
    ],
    "ready": true,
-   "note": "skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů)"
+   "note": "skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů); převrácená = stav s okrajem vpředu (kotě ji strhne, OBJ-11)"
   },
   "P13": {
    "name": "Klubko",
@@ -975,6 +980,7 @@
     "stín",
     "botník",
     "boty",
+    "bota",
     "stav: rozházené"
    ],
    "data": [
@@ -1003,6 +1009,7 @@
    "parts": [
     "věšák",
     "kabáty",
+    "šála",
     "stav: spadlá šála"
    ],
    "data": [
@@ -1684,6 +1691,7 @@
    "parts": [
     "polička",
     "ručníky",
+    "ručník",
     "stav: shozený ručník"
    ],
    "data": [
