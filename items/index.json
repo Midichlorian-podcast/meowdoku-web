@@ -100,7 +100,8 @@
   "P80",
   "P81",
   "P82",
-  "P83"
+  "P83",
+  "P87"
  ],
  "weather": [
   "WEATHER-obloha"
@@ -2971,6 +2972,33 @@
    "ready": true,
    "note": "zimní ozdoba z kalendáře; stojí na parapetu, kočka po ozdobách sahá",
    "on": "P01"
+  },
+  "P87": {
+   "name": "Zarámovaná stránka",
+   "w": 140,
+   "h": 130,
+   "room": "obyvak",
+   "slot": "obrazy",
+   "level": "wall",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [],
+   "front": [],
+   "parts": [
+    "rám",
+    "stránka",
+    "mřížka",
+    "devítka",
+    "sklo",
+    "háček"
+   ],
+   "data": [
+    "čep hřebík",
+    "dotyk"
+   ],
+   "ready": true,
+   "note": "památka na finále příběhu: poslední stránka ze sešitu z půdy; nevyrábí se, věší se sama"
   }
  }
 }
