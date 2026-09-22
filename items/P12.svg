@@ -11,5 +11,6 @@
 <rect id="@pata" x="40" y="140" width="220" height="44" fill="#FFB13D" opacity="0.2"/>
 <rect id="@plošina" x="70" y="154" width="160" height="16" fill="#3DFF9A" opacity="0.2"/>
 <rect id="@úkryt v" x="70" y="84" width="160" height="86" fill="#3DA9FF" opacity="0.2"/>
+<rect id="@úkryt v převrácené" x="60" y="108" width="180" height="88" fill="#3DA9FF" opacity="0.2"/>
 <rect id="@dotyk" x="60" y="100" width="180" height="70" fill="#FF3D9A" opacity="0.2"/>
 </svg>

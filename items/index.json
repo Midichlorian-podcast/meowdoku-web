@@ -468,10 +468,11 @@
     "pata",
     "plošina",
     "úkryt v",
+    "úkryt v převrácené",
     "dotyk"
    ],
    "ready": true,
-   "note": "skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů); převrácená = stav s okrajem vpředu (kotě ji strhne, OBJ-11)"
+   "note": "skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů); převrácená = stav s okrajem vpředu (kotě ji strhne, OBJ-11); v převrácené ji ořízne dutina, aby uši nelezly stěnou"
   },
   "P13": {
    "name": "Klubko",
