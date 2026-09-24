@@ -3123,33 +3123,34 @@
   },
   "P92": {
    "name": "Mapa čtvrti",
-   "w": 300,
+   "w": 140,
    "h": 100,
-   "room": "pracovna",
-   "slot": "koberec",
-   "level": "floor",
+   "room": "podesta",
+   "slot": "obrazy",
+   "level": "wall",
    "height": 0,
    "hide": "",
    "fixed": false,
    "states": [],
    "front": [],
    "parts": [
-    "stín",
+    "rám",
     "papír",
     "park",
-    "rybník",
     "domy",
     "ulice",
     "náš dům",
+    "růžice",
     "okraj",
-    "rohy"
+    "sklo",
+    "háček"
    ],
    "data": [
-    "pata",
-    "plošina"
+    "čep hřebík",
+    "dotyk mapa"
    ],
    "ready": true,
-   "note": "vzácný kus ze dvorku; papír s ulicemi, které kočka nikdy neviděla, nejradši na něm spí; leží na místě koberce pracovny"
+   "note": "vzácný kus ze dvorku; papír s ulicemi, které kočka nikdy neviděla; visí v patře u schodů, jediné volné místo pro obraz v domě"
   }
  }
 }
