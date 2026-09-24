@@ -438,7 +438,7 @@
    "w": 300,
    "h": 200,
    "room": "obyvak",
-   "slot": "hračka 1",
+   "slot": "pelíšek",
    "level": "floor",
    "height": 0,
    "hide": "v",
@@ -473,7 +473,7 @@
     "dotyk"
    ],
    "ready": true,
-   "note": "skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů); převrácená = stav s okrajem vpředu (kotě ji strhne, OBJ-11); v převrácené ji ořízne dutina, aby uši nelezly stěnou"
+   "note": "stojí na místě pelíšku, dokud pelíšek není (nikdy spolu); skok dovnitř; z krabice vykukuje vrchol hlavy; zavřená = stav (klopy dolů); převrácená = stav s okrajem vpředu (kotě ji strhne, OBJ-11); v převrácené ji ořízne dutina, aby uši nelezly stěnou"
   },
   "P13": {
    "name": "Klubko",
@@ -2496,8 +2496,8 @@
     "slot velký kus +",
     "slot obrazy",
     "slot police",
-    "slot hračka 1",
     "slot pelíšek",
+    "slot hračka 1",
     "slot pelíšek +",
     "slot koberec",
     "slot hračka 2",
