@@ -101,7 +101,12 @@
   "P81",
   "P82",
   "P83",
-  "P87"
+  "P87",
+  "P88",
+  "P89",
+  "P90",
+  "P91",
+  "P92"
  ],
  "weather": [
   "WEATHER-obloha"
@@ -2999,6 +3004,152 @@
    ],
    "ready": true,
    "note": "památka na finále příběhu: poslední stránka ze sešitu z půdy; nevyrábí se, věší se sama"
+  },
+  "P88": {
+   "name": "Starožitné hodiny",
+   "w": 100,
+   "h": 200,
+   "room": "obyvak",
+   "slot": "obrazy",
+   "level": "wall",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [],
+   "front": [],
+   "parts": [
+    "háček",
+    "skříň",
+    "ciferník",
+    "kyvadlo",
+    "sklo"
+   ],
+   "data": [
+    "čep hřebík",
+    "dotyk kyvadlo"
+   ],
+   "ready": true,
+   "note": "vzácný kus ze dvorku; stojí a nikdo je nenatahuje; visí na místě obrazu, jeden obraz na stěně naráz"
+  },
+  "P89": {
+   "name": "Hrací skříňka",
+   "w": 84,
+   "h": 62,
+   "room": "loznice",
+   "slot": "budík",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "otevřená"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "nožky",
+    "skříňka",
+    "víko",
+    "klíček",
+    "stav: otevřená"
+   ],
+   "data": [
+    "pata",
+    "dotyk"
+   ],
+   "ready": true,
+   "note": "vzácný kus ze dvorku; po otevření zahraje tři tóny a zasekne se; stojí na nočním stolku místo budíku, jeden z nich naráz",
+   "on": "P42"
+  },
+  "P90": {
+   "name": "Akvárium bez ryb",
+   "w": 180,
+   "h": 200,
+   "room": "obyvak",
+   "slot": "malý kus",
+   "level": "high",
+   "height": 157,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "bublinky"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "skříňka",
+    "voda",
+    "kamínky",
+    "sklo",
+    "víko",
+    "stav: bublinky"
+   ],
+   "data": [
+    "pata",
+    "plošina",
+    "dotyk sklo"
+   ],
+   "ready": true,
+   "note": "vzácný kus ze dvorku; voda, kamínky a nic víc; kočka se do něj dívá a dospělá si lehne na teplé víko; stojí na malém místě obýváku místo stolku nebo škrabadla"
+  },
+  "P91": {
+   "name": "Zlatá rolnička",
+   "w": 80,
+   "h": 96,
+   "room": "loznice",
+   "slot": "hračka",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [
+    "cinká"
+   ],
+   "front": [],
+   "parts": [
+    "stín",
+    "podstavec",
+    "pružina",
+    "rolnička",
+    "mašle",
+    "stav: cinká"
+   ],
+   "data": [
+    "pata",
+    "dotyk rolnička"
+   ],
+   "ready": true,
+   "note": "vzácný kus ze dvorku; cinká tence a dlouho, kočka do ní plácá; nízká, ze skříně za ní nic nezakryje"
+  },
+  "P92": {
+   "name": "Mapa čtvrti",
+   "w": 300,
+   "h": 100,
+   "room": "pracovna",
+   "slot": "koberec",
+   "level": "floor",
+   "height": 0,
+   "hide": "",
+   "fixed": false,
+   "states": [],
+   "front": [],
+   "parts": [
+    "stín",
+    "papír",
+    "park",
+    "rybník",
+    "domy",
+    "ulice",
+    "náš dům",
+    "okraj",
+    "rohy"
+   ],
+   "data": [
+    "pata",
+    "plošina"
+   ],
+   "ready": true,
+   "note": "vzácný kus ze dvorku; papír s ulicemi, které kočka nikdy neviděla, nejradši na něm spí; leží na místě koberce pracovny"
   }
  }
 }
