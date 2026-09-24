@@ -2733,7 +2733,7 @@
    "note": "poklopem P85 po žebříku z podesty; vlevo dvířky na střechu"
   },
   "ROOM-balkon": {
-   "name": "Terasa",
+   "name": "Balkon",
    "w": 1000,
    "h": 700,
    "room": "balkon",

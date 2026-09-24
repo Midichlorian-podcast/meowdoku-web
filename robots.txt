@@ -1,0 +1,3 @@
+# Paws & Nines: everything here may be read, nothing here is private
+User-agent: *
+Allow: /
