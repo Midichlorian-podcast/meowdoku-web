@@ -920,7 +920,9 @@
     "plošina",
     "plošina 2",
     "plošina 3",
-    "úkryt pod"
+    "úkryt pod",
+    "čep první schod",
+    "čep horní schod"
    ],
    "ready": true,
    "note": "schody z chodby na podestu v patře; kotě se schody učí; pod schody úkryt pro kotě"
@@ -949,8 +951,8 @@
   },
   "P86": {
    "name": "Schodiště",
-   "w": 230,
-   "h": 84,
+   "w": 306,
+   "h": 226,
    "room": "podesta",
    "slot": "schodiště",
    "level": "floor",
@@ -958,19 +960,24 @@
    "hide": "",
    "fixed": true,
    "states": [],
-   "front": [],
+   "front": [
+    "zábradlí"
+   ],
    "parts": [
-    "otvor",
+    "světlík",
     "stupně",
+    "stín pod hranou",
+    "madlo",
     "okraj",
-    "zábradlí",
-    "sloupky"
+    "před: zábradlí"
    ],
    "data": [
-    "pata"
+    "pata",
+    "úkryt otvor",
+    "čep horní schod"
    ],
    "ready": true,
-   "note": "sem ústí schody z chodby; nízké zábradlí se sloupky kolem otvoru, schody dolů; klepnutím dolů"
+   "note": "sem ústí schody z chodby: vzadu vpravo, přímo nad místem, kde v chodbě mizí ve stropě; horní stupně klesají doleva, madlo po zdi, zábradlí se sloupkem, výstup vpravo; klepnutím dolů"
   },
   "P29": {
    "name": "Botník s botami",
@@ -2608,7 +2615,7 @@
     "slot schodiště"
    ],
    "ready": true,
-   "note": "schody z chodby ústí vpředu vpravo, žebřík vlevo vede poklopem na půdu; vlevo ložnice, vpravo dveře na terasu"
+   "note": "schody z chodby ústí vzadu vpravo nad horním koncem ramene, žebřík vlevo vede poklopem na půdu; vlevo ložnice, vpravo dveře na terasu"
   },
   "ROOM-pracovna": {
    "name": "Pracovna",
