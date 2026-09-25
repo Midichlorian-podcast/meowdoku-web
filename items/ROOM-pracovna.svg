@@ -5,9 +5,9 @@
 <g id="průchod levý"><rect x="0" y="0" width="14" height="150" fill="#F0E6DC" stroke="none"/><path d="M 14 0 L 14 152" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 0 150 L 14 150" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="0" y="150" width="14" height="324" fill="#6F5A41" stroke="none" opacity="0.3"/><path d="M 14 150 L 14 470" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.4"/></g>
 <g id="zeď pravá"><rect x="986" y="0" width="14" height="700" fill="#FBEFD6" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
 <rect id="@slot psací stůl" x="400" y="480" width="400" height="50" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot křeslo" x="470" y="560" width="160" height="40" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot křeslo" x="380" y="560" width="160" height="40" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot lampa" x="674" y="300" width="80" height="120" fill="#FF8C3D" opacity="0.2"/>
-<rect id="@slot police" x="174" y="150" width="240" height="320" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot police" x="80" y="150" width="240" height="320" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot květina" x="820" y="500" width="140" height="60" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot koš" x="752" y="545" width="100" height="40" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot okno" x="370" y="136" width="300" height="250" fill="#FF8C3D" opacity="0.2"/>

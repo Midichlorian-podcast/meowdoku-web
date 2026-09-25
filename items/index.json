@@ -961,13 +961,16 @@
    "front": [],
    "parts": [
     "otvor",
-    "stupně"
+    "stupně",
+    "okraj",
+    "zábradlí",
+    "sloupky"
    ],
    "data": [
     "pata"
    ],
    "ready": true,
-   "note": "sem ústí schody z chodby; klepnutím dolů"
+   "note": "sem ústí schody z chodby; nízké zábradlí se sloupky kolem otvoru, schody dolů; klepnutím dolů"
   },
   "P29": {
    "name": "Botník s botami",
@@ -1138,7 +1141,7 @@
    "note": "tady se hraje sudoku v domě (skupina SUD); papír je pevný díl"
   },
   "P35": {
-   "name": "Kancelářské křeslo",
+   "name": "Otáčecí křeslo",
    "w": 160,
    "h": 200,
    "room": "pracovna",
@@ -1156,6 +1159,7 @@
     "podstavec",
     "opěradlo",
     "sedák",
+    "područky",
     "stav: roztočené"
    ],
    "data": [
