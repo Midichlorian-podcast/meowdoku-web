@@ -5,7 +5,7 @@
 <g id="průchod levý"><rect x="0" y="0" width="14" height="150" fill="#F0E6DC" stroke="none"/><path d="M 14 0 L 14 152" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 0 150 L 14 150" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="0" y="150" width="14" height="324" fill="#6F5A41" stroke="none" opacity="0.3"/><path d="M 14 150 L 14 470" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.4"/></g>
 <g id="průchod pravý"><rect x="786" y="0" width="14" height="150" fill="#F0E6DC" stroke="none"/><path d="M 786 0 L 786 152" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M 786 150 L 800 150" stroke="#2F2E3F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><rect x="786" y="150" width="14" height="324" fill="#6F5A41" stroke="none" opacity="0.3"/><path d="M 786 150 L 786 470" stroke="#2F2E3F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.4"/></g>
 <g id="lampa"><path d="M 420 0 L 420 40" stroke="#9A94A8" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M 396 40 L 444 40 L 434 64 L 406 64 Z" fill="#FBEFD6" stroke="#2F2E3F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></g>
-<rect id="@slot žebřík" x="70" y="0" width="110" height="470" fill="#FF8C3D" opacity="0.2"/>
+<rect id="@slot žebřík" x="26" y="0" width="110" height="470" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot obrazy" x="250" y="150" width="140" height="110" fill="#FF8C3D" opacity="0.2"/>
 <rect id="@slot schodiště" x="535" y="470" width="255" height="99" fill="#FF8C3D" opacity="0.2"/>
 </svg>

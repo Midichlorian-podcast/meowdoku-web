@@ -1879,8 +1879,8 @@
   },
   "P85": {
    "name": "Poklop",
-   "w": 150,
-   "h": 96,
+   "w": 202,
+   "h": 201,
    "room": "puda",
    "slot": "poklop",
    "level": "floor",
@@ -1890,16 +1890,18 @@
    "states": [],
    "front": [],
    "parts": [
-    "stín",
-    "víko",
     "otvor",
-    "žebřík"
+    "stín pod hranou",
+    "žebřík",
+    "okraj"
    ],
    "data": [
-    "pata"
+    "pata",
+    "úkryt otvor",
+    "čep žebřík"
    ],
    "ready": true,
-   "note": "poklop do podesty, žebřík dolů; víko opřené dozadu"
+   "note": "poklop do podesty vzadu nad žebříkem; horní konec žebříku z něj vyčnívá; kočka z něj vyskočí dopředu vpravo; klepnutím dolů"
   },
   "P60": {
    "name": "Stará lampa",
@@ -2746,7 +2748,7 @@
     "slot poklop"
    ],
    "ready": true,
-   "note": "poklopem P85 po žebříku z podesty; vlevo dvířky na střechu"
+   "note": "poklopem P85 vzadu po žebříku z podesty; vlevo dvířky na střechu"
   },
   "ROOM-balkon": {
    "name": "Balkon",
